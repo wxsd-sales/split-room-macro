@@ -1,5 +1,9 @@
-# split-room-macro
+# Split Room Macro
+
 Simple macro to toggle microphone and speakers on a Webex Device to accommodate split room configurations
+
+<img width="797" alt="image" src="https://user-images.githubusercontent.com/21026209/173637636-bedf0b74-8f1c-47c7-affd-a3198fa14c90.png">
+
 
 ## Requirements
 
@@ -15,6 +19,7 @@ Simple macro to toggle microphone and speakers on a Webex Device to accommodate 
 ## Uninstall
 
 1. Delete the ``slip-room-macro.js`` Macro from your devices Macro editor.
+2. Delete the UI Panel using the UI Editor which the Macro created.
 
 
 ## Tested Hardware
