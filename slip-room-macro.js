@@ -41,7 +41,7 @@ import xapi from 'xapi';
 // Customise the Button/Panel controls name
 const BUTTON_NAME = 'Room Controls';
 
-const mics = [3, 4]       // Specify the Micophone lines
+const mics = [3]       // Specify the Micophone lines
 const speakers = [1]      // Specify the Speaker lines
 
 //////////////////////////
