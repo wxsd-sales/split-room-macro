@@ -5,19 +5,23 @@ Simple macro to toggle microphone and speakers on a Webex Device to accommodate 
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/21026209/173637636-bedf0b74-8f1c-47c7-affd-a3198fa14c90.png">
 
 
-## Requirements
-
-1. A CE9.X or RoomOS Webex Device
-2. Web admin access to the device to upload the macro.
-
 ## Setup
 
+### Prerequisites & Dependencies: 
+
+- A CE9.X or RoomOS Webex Device
+- Web admin access to the device to upload the macro.
+
+
+<!-- GETTING STARTED -->
+
+### Installation Steps:
 1. Download the ``slip-room-macro.js`` file and upload it to your Webex Room devices Macro editor via the web interface.
 2. Configure the Macro by toggling the values at the beining of the file.
 3. Enable the Macro on the editor.
 
-## Uninstall
 
+### Installation Steps:
 1. Delete the ``slip-room-macro.js`` Macro from your devices Macro editor.
 2. Delete the UI Panel using the UI Editor which the Macro created.
 
@@ -25,7 +29,6 @@ Simple macro to toggle microphone and speakers on a Webex Device to accommodate 
 ## Tested Hardware
 
 This macro was developed and tested on a Codec Pro. Other Webex Devices may have difference results.
-
 
 ## Demo
 
